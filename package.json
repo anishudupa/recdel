@@ -1,0 +1,27 @@
+{
+  "name": "recdel",
+  "version": "1.0.0",
+  "description": "a cli tool to delete files of a give file type(s)",
+  "main": "src/main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "type": "module",
+  "bin": {
+    "recdel": "./src/main.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/anishudupa/recdel.git"
+  },
+  "author": "anishudupa",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/anishudupa/recdel/issues"
+  },
+  "homepage": "https://github.com/anishudupa/recdel#readme",
+  "dependencies": {
+    "chalk": "^5.3.0",
+    "commander": "^12.1.0"
+  }
+}
