@@ -29,7 +29,7 @@ if you have installed it globally, you can directly execute it by,
 ```bash
 recdel --help
 ```
-if you have installed locally, 
+if you have installed locally, (use \ folder separator for windows) 
 ```bash
 ./node_modules/.bin/recdel --help
 ```
